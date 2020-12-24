@@ -5,5 +5,5 @@ You can create this project by following the instructions here : <a href="https:
 
 This picture below is the result of this project :
 
-<img src="https://github.com/ardhi12/telegrambot_with_nodemcu/blob/master/talk%20to%20bot.png">
+<img src="https://github.com/ardhi12/webscrap_stockbot/blob/main/stockbot.png">
 
